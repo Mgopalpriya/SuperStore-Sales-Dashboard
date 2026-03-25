@@ -14,7 +14,7 @@ This project transforms raw transactional data into a premium, app-like interfac
 
 ![Dashboard Preview](Dashboard_Screenshot.png) 
 
-*(Note: Upload your screenshot to the repo, and this link will display it here)*
+
 
 
 
