@@ -14,24 +14,21 @@ To design a premium, interactive Excel data application that:
 
 ## 🛠️ Tools, Skills & Technologies Demonstrated
 * **Core Technologies:**
-  * **Power Query:** Automated ETL (Extract, Transform, Load) pipelines for raw data ingestion, cleaning, and transformation.
-  * **Power Pivot & Data Model:** Engineered a relational database environment within Excel to handle complex joins and process massive datasets efficiently without file bloat.
-  * **Power Pivot Charts:** Built dynamic, high-level visualizations linked directly to the underlying Data Model.
-  * **Advanced Microsoft Excel:** Mastered form controls, advanced formatting, and dynamic arrays.
-* **Analytical & UX Skills:** Relational Data Modeling, UI/UX Dashboard Design, What-If Scenario Analysis, Data-Ink Ratio Optimization.
+  * **Power Query:** Professional ETL (Extract, Transform, Load) processes for data cleaning and preparation.
+  * **Power Pivot & Data Model:** Structured data modeling utilizing many-to-one relationships across multiple relational tables.
+  * **Excel Dashboarding:** Advanced interactive UI design using custom slicers, dynamic charts, and form controls.
+  * **Analytical Skills:** Data modeling, KPI architecture, and high-level business insight generation.
 * **Key Formulas & Engine Mechanics:**
   * `GETPIVOTDATA` → Dynamic, structured metric extraction for custom KPI cards.
   * `TEXT` → Dynamic date handling and automated subtitle generation.
-  * **Custom Number Formatting** → Condensing large figures (e.g., `$#,##0,,"M"`) for cleaner data visualization.
-  * **Form Controls & Helper Cells** → Powering the interactive Spin Button math logic.
+  * **Custom Number Formatting** → Precision condensing of large figures (e.g., `$#,##0,,"M"`) for cleaner data-ink ratio.
+  * **Form Controls & Helper Cells** → Powering the interactive Spin Button math logic for real-time projections.
 
 ## ⚙️ Technical Execution
-
 This project goes beyond basic reporting by incorporating:
-
-Structured Data Modeling: Integration of multiple tables (Orders, People, Returns) using Power Pivot relationships
-What-If Analysis: Custom scenario logic built using form controls and dynamic calculations
-Dashboard Design: Clean layout with consistent formatting, slicers, and interactive filtering
+* **Structured Data Modeling:** Integration of Orders, People, and Returns tables using Power Pivot to ensure data integrity and scalable analysis.
+* **What-If Analysis:** Engineered custom scenario logic built using form controls and dynamic calculations to simulate business impact.
+* **Dashboard Design:** Clean, modern "Dark Mode" layout with consistent formatting, intuitive slicers, and interactive filtering.
 
 ## 📈 Dashboard Highlights
 1. **Executive KPI Ribbon:** Tracks Total Sales, Profit, Profit Margin %, Total Orders, Unique Customers, Shipping Costs, and Average Order Value (AOV).
@@ -53,11 +50,8 @@ Dashboard Design: Clean layout with consistent formatting, slicers, and interact
 
 ## 🔮 Future Enhancements
 * **Power Automate Integration:** Configure an automated flow to generate and email PDF snapshots of the dashboard to stakeholders on a weekly basis.
-* **Predictive Forecasting:** Incorporate Excel's forecast sheet features to project Q1 2015 revenue based on historical Q4 spikes.
+* **Predictive Forecasting:** Incorporate Excel's forecast sheet features to project future revenue based on historical growth and seasonal spikes.
 * **Product-Level Drill-Down:** Add a secondary dashboard tab specifically for isolating the exact sub-categories driving the losses in underperforming regions.
 
 ## 📌 Conclusion
-
-This project demonstrates the ability to transform raw data into actionable business insights, bridging the gap between Excel-based reporting and strategic decision-making.
-
-It reflects a transition from traditional dashboarding to business-focused analytics and decision support.
+This project demonstrates the ability to transform raw data into actionable business insights, bridging the gap between Excel-based reporting and strategic decision-making. It reflects a transition from traditional dashboarding to business-focused analytics and decision support.
