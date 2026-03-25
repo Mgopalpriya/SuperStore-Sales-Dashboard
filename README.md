@@ -26,10 +26,12 @@ To design a premium, interactive Excel data application that:
   * **Form Controls & Helper Cells** → Powering the interactive Spin Button math logic.
 
 ## ⚙️ Technical Execution
-This project goes beyond basic reporting by replacing standard spreadsheet visuals with a modern, application-style build:
-* **Relational Data Modeling:** Integrated multiple tables (Orders, People, Returns) to calculate distinct counts (e.g., Unique Customers) and aggregate metrics.
-* **Dynamic Scenarios:** Built a custom calculation engine independent of Excel's standard Scenario Manager, allowing for seamless, interactive metric updates.
-* **UI/UX Design:** Engineered a dark-theme interface utilizing a Z-pattern layout, custom-styled slicers, invisible shape links, and a unified color palette.
+
+This project goes beyond basic reporting by incorporating:
+
+Structured Data Modeling: Integration of multiple tables (Orders, People, Returns) using Power Pivot relationships
+What-If Analysis: Custom scenario logic built using form controls and dynamic calculations
+Dashboard Design: Clean layout with consistent formatting, slicers, and interactive filtering
 
 ## 📈 Dashboard Highlights
 1. **Executive KPI Ribbon:** Tracks Total Sales, Profit, Profit Margin %, Total Orders, Unique Customers, Shipping Costs, and Average Order Value (AOV).
@@ -53,3 +55,9 @@ This project goes beyond basic reporting by replacing standard spreadsheet visua
 * **Power Automate Integration:** Configure an automated flow to generate and email PDF snapshots of the dashboard to stakeholders on a weekly basis.
 * **Predictive Forecasting:** Incorporate Excel's forecast sheet features to project Q1 2015 revenue based on historical Q4 spikes.
 * **Product-Level Drill-Down:** Add a secondary dashboard tab specifically for isolating the exact sub-categories driving the losses in underperforming regions.
+
+## 📌 Conclusion
+
+This project demonstrates the ability to transform raw data into actionable business insights, bridging the gap between Excel-based reporting and strategic decision-making.
+
+It reflects a transition from traditional dashboarding to business-focused analytics and decision support.
